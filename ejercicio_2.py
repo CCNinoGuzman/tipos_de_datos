@@ -1,0 +1,2 @@
+'''Adivina el Número
+El programa selecciona un número aleatorio entre 1 y 10. El usuario tiene 3 intentos para adivinarlo. El programa debe decir si el número ingresado es mayor o menor que el objetivo.'''
